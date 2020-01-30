@@ -22,7 +22,13 @@ section, footer {
     padding: 20px 0;
 }
 
+.warnaputih {
+    color: white;
+ }
 
+ .bayangan {
+	text-shadow: 4px 4px 4px red;
+}
 
 
 
